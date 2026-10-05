@@ -1,0 +1,19 @@
+{
+  "name": "GPS Speed Dial",
+  "short_name": "Speed Dial",
+  "description": "Full-screen GPS speedometer with mirrored windshield HUD mode.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#020304",
+  "theme_color": "#050608",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
